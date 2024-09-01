@@ -181,7 +181,7 @@
 32. [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v1.pdf)
 33. [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 34. [Batch Normalization](https://arxiv.org/abs/1502.03167)
-35. [Residual Learning](https://arxiv.org/pdf/1512.03385v1.pdf)
+35. [ResNets: Residual Learning](https://arxiv.org/pdf/1512.03385v1.pdf)
 36. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
 37. [Berkeley AI Research (BAIR) Laboratory](https://arxiv.org/pdf/1611.07004v1.pdf)
 38. [MobileNets by Google](https://arxiv.org/abs/1704.04861)
@@ -199,6 +199,9 @@
 50. [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
 51. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)
 52. [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf?fbclid=IwAR0colWFHPGBCB1APZq9JVsWeWtmeZd9oCTNQvR52T5PRUJP_dLOwB8pt0I)
+53. [YOLO: You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+54. [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://proceedings.mlr.press/v97/tan19a.html)
+
 
 ### Tutorials
 
